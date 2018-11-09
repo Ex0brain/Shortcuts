@@ -25,4 +25,20 @@
  "menu.power": "Energie Management",
  "power.sleep": "Ruhemodus",
  "update.info": "Dieser Kurzbefehl unterstützt die automatische Überprüfung auf Updates alle drei Tage mit meinem eigenen 'Shortcut Updater'. Der nächste Schritt ist, es zu installieren."
+ "settings.credits": "Danke an",
+ "power.restart": "Neu starten",
+ "menu.preferences": "Ändere die Priorität",
+ "menu.actions": "Application Actions",
+ "actions.open": "Öffne",
+ "actions.close": "Schliesse",
+ "actions.url": "Link öffnen",
+ "url.clipboard": "Zwischenablage",
+ "settings.pin": "PIN Code",
+ "pin.set": "PIN einstellen",
+ "pin.reset": "PIN zurücksetzen",
+ "power.shutdown": "Ausschalten",
+ "shutdown.yes": "Ja",
+ "shutdown.no": "Nein",
+ "settings.feedback": "Feedback",
+ "menu.transfer": "Datei übertragen"
 }
