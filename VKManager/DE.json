@@ -1,0 +1,19 @@
+{
+ "name": "VK Manager",
+ "menu.message": "Eine Nachricht senden",
+ "menu.friends": "Freundesliste",
+ "friends.profile": "Profil öffnen",
+ "friends.favorites": "Favoriten",
+ "favorites.add": "Zu den Favoriten hinzufügen",
+ "favorites.remove": "Von den Favoriten entfernen",
+ "menu.settings": "Einstellungen",
+ "settings.language": "Sprache",
+ "language.help": "Hilf uns übersetzen!",
+ "settings.credits": "Danke an",
+ "settings.feedback": "Gib uns dein Feedback!",
+ "update.info": "Dieser Kurzbefehl unterstützt die automatische Überprüfung auf Updates alle drei Tage mit meinem eigenen 'Shortcut Updater'. Der nächste Schritt ist, es zu installieren.,
+ "info.token": "Damit der Shortcut mit Vkontakte richtig funktionieren kann, benötigen Sie ein Access Token. Um den Access Token zu erhalten, müssen Sie sich im nächsten Schritt bei Vkontakte anmelden, auf Erlauben klicken, den Link kopieren und zur Verknüpfung zurückkehren.",
+ "info.secure": "Für deine Sicherheit, werden alle deine Daten auf deinem Gerät gespeichert, außerhalb des Kurzbefehls.",
+ "menu.status": "Ändere deinen Status",
+ "menu.profile": "Mein Profil"
+}
