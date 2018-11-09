@@ -12,4 +12,6 @@
  "app.description": "App-Beschreibung",
  "app.remove": "Aus Wunschliste entfernen",
  "settings.feedback": "Feedback"
+ "menu.price": "Preissturz",
+ "price.nodrop": "Keine Preisveränderungen!"
 }
