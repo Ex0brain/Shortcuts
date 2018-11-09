@@ -9,5 +9,7 @@
  "changelog.version": "Version",
  "changelog.current": "aktuelle Version",
  "changelog.new": "Neue Version",
- "changelog.changes": "Änderungen"
+ "changelog.changes": "Änderungen",
+ "settings.credits": "Danke an",
+ "settings.feedback": "Gib uns dein Feedback!"
 }
