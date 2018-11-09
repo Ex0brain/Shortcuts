@@ -1,0 +1,16 @@
+{
+ "menu.name": "Paket Verfolger",
+ "menu.settings": "Einstellungen",
+ "settings.language": "Sprache",
+ "language.help": "Hilf uns zu übersetzen",
+ "settings.credits": "Danke an",
+ "settings.feedback": "Feedback",
+ "update.info": "This Shortcut supports automatic check for updates every three days using my own 'Shortcuts Updater'. The next step is to install it.",
+ "track.name": "Gib bitte den Namen ein!",
+ "track.number": "Gib bitte deine Paketnummer ein!",
+ "track.track": "Verfolge das Paket",
+ "track.remove": "Lösche die Verfolgung",
+ "track.changename": "Namen ändern",
+ "track.changetrack": "Die Paketverfolgung ändern",
+ "track.add": "Eine Verfolgung hinzufügen"
+}
