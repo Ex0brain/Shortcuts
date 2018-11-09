@@ -1,0 +1,20 @@
+{
+ "menu.name": "ShareShortcuts Hub",
+ "menu.latest": "Letzter Kurzbefehl",
+ "menu.search": "Suchen",
+ "menu.settings": "Einstellungen",
+ "settings.language": "Sprache",
+ "language.help": "Hilf uns übersetzen",
+ "settings.credits": "Danke an",
+ "settings.feedback": "Feedback",
+ "shortcut.install": "Installiere den Kurzbefehl",
+ "shortcut.open": "Öffne in Safari",
+ "menu.top": "Top-100 Kurzbefehle",
+ "top.downloads": "von den Downloads her",
+ "top.likes": "von den Likes her",
+ "menu.categories": "Alle Kategorien",
+ "menu.updated": "Wichtige Updates",
+ "search.next": "Nächste Seite",
+ "shortcut.version": "Version",
+ "shortcut.author": "Entwickler"
+}
