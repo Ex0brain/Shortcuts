@@ -1,0 +1,16 @@
+{
+ "menu.name": "ShareShortcuts Pub",
+ "menu.settings": "Einstellungen",
+ "settings.language": "Sprache",
+ "language.help": "Hilf uns übersetzen",
+ "settings.credits": "Danke an",
+ "settings.feedback": "Feedback",
+ "menu.shortcuts": "Meine Kurzbefehle",
+ "menu.account": "Mein Account",
+ "info": "API Schlüssel",
+ "info.api": "Die nächste Seite wird deine Seite mit dem API Shlüssel aufmachen. Kopiere den API Schlüssel und klicke 'Done'!",
+ "shortcut.install": "Installiere den Kurzbefehl",
+ "shortcut.open": "Öffne in Safari",
+ "account.avatar": "Avatar ändern",
+ "shortcuts.new": "Einen neuen hinzufügen"
+}
